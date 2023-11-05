@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://animishtripathy24.io)
 <h1 align="center">Hi 👋, I'm Animish Tripathy</h1>
 <h3 align="center">I have keen interest in solving problems related to Data Structures and Algorithms and always eager to learn new technologies to enhance my knowledge.Learning full stack web development.</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngitem.com/pimgs/s/531-5312066_hire-laravel-dedicated-developer-full-stack-developer-png.png">
+<img align="right" alt="Coding" width="400" height="300" src="https://png.pngitem.com/pimgs/s/531-5312066_hire-laravel-dedicated-developer-full-stack-developer-png.png">
 
 - 🌱 I’m currently learning **Javascript and Backend Development**
 
