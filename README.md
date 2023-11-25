@@ -1,7 +1,10 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](https://raw.githubusercontent.com/paltannistha/paltannistha/main/images/github-banner.png)
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
 
 
 <p align="center">
@@ -9,9 +12,11 @@
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
+ 
+![image](https://maludesign.vn/wp-content/uploads/2022/11/18a4949fc9c8067172d3b96e302e7097.gif)
 
-![background.png](https://raw.githubusercontent.com/paltannistha/paltannistha/main/images/background.png)
-
+</p>
 <br>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
