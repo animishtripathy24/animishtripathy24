@@ -1,5 +1,22 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://animishtripathy24.io)
-<h1 align="center">Hi 👋, I'm Animish Tripathy</h1>
+<!-- ----------- HEAD SECTION ------------ -->
+
+![banner.png](https://raw.githubusercontent.com/paltannistha/paltannistha/main/images/github-banner.png)
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=HHey+There+👋,+I'm+Animish+Tripathy;Full+Stack+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+</p>
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+![background.png](https://raw.githubusercontent.com/paltannistha/paltannistha/main/images/background.png)
+
+<br>
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<hr>
+<br>
 <h3 align="center">I have keen interest in solving problems related to Data Structures and Algorithms and always eager to learn new technologies to enhance my knowledge.Learning full stack web development.</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://png.pngitem.com/pimgs/s/531-5312066_hire-laravel-dedicated-developer-full-stack-developer-png.png">
 
