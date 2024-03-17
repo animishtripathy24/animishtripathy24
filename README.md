@@ -1,10 +1,6 @@
-<!-- ----------- HEAD SECTION ------------ -->
+<!-- ----------- HEAD SECTION ------------ --> 
+![](https://komarev.com/ghpvc/?username=animishtripathy24)
 
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋;I'm+Animish+Tripathy;Full+Stack+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
