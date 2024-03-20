@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=animishtripathy24)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋;I'm+Animish+Tripathy;Full+Stack+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0a8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋;I'm+Animish+Tripathy;Frontend+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
