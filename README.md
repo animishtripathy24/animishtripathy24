@@ -1,9 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ --> 
+  
 ![](https://komarev.com/ghpvc/?username=animishtripathy24)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0a8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋;I'm+Animish+Tripathy;Frontend+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
-</p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -13,6 +10,10 @@
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0a8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋;I'm+Animish+Tripathy;Frontend+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+</p>
 
 <h3 align="center">I'm passionate about tackling challenges in Data Structures and Algorithms, constantly seeking to expand my knowledge with new technologies. Additionally, I'm dedicated to honing my skills as a full stack web developer, proficient in crafting seamless and efficient solutions spanning both frontend and backend development.</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://png.pngitem.com/pimgs/s/531-5312066_hire-laravel-dedicated-developer-full-stack-developer-png.png">
