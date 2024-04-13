@@ -11,14 +11,13 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0a8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋;I'm+Animish+Tripathy;Frontend+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
-</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Animish Tripathy</b></h1>
+<h2 align="center"><b>Problem Solving Enthusiast | Passionate About Crafting Efficient Code 🚀 | Institute 6th🏆 Rank @GFG | Youtuber </b></h2>   
 
-<h3 align="center">I'm passionate about tackling challenges in Data Structures and Algorithms, constantly seeking to expand my knowledge with new technologies. Additionally, I'm dedicated to honing my skills as a full stack web developer, proficient in crafting seamless and efficient solutions spanning both frontend and backend development.</h3>
+<h4 align="center">I'm a very passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. 👨‍💻 Love to learn new technologies and to explore new sets of areas. Additionally, I'm dedicated to honing my skills as a full stack web developer, proficient in crafting seamless and efficient solutions spanning both frontend and backend development.</h4>
 
 
-- 🌱 I’m currently learning **Javascript and Backend Development**
+- 🌱 I’m currently learning **learning new Tech Stacks for Expanding My Skills set and Knowledge**
 - 📫 How to reach me **animishtripathy24@gmail.com**
 - <b>📺 YouTube [**@AnimishTripathy**](https://youtube.com/@AnimishTripathy?si=CGsEHzF4UpevxOSa)</b>
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/animish-tripathy-481363229)
