@@ -11,6 +11,8 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## 🙋‍♂️ About Me
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Animish Tripathy</b></h1>
 <h2 align="center"><b>Problem Solving Enthusiast | Passionate About Crafting Efficient Code 🚀 | Institute 6th🏆 Rank @GFG | Youtuber </b></h2>   
 
