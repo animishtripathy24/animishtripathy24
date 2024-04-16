@@ -30,6 +30,7 @@
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height=85/> </a> 
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height=85/> </a>  
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
+    <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height=85/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
