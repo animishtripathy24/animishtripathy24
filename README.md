@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Animish Tripathy</b></h1>
-<h2 align="center"><b>Problem Solving Enthusiast | Passionate About Crafting Efficient Code 🚀 | Institute 4th🏆 Rank @GFG | Youtuber </b></h2>   
+<h2 align="center"><b>Problem Solving Enthusiast | Passionate About Crafting Efficient Code 🚀 | Institute 3rd🏆 Rank @GFG | Youtuber </b></h2>   
 
 <h4 align="center">I'm a very passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. 👨‍💻 Love to learn new technologies and to explore new sets of areas. Additionally, I'm dedicated to honing my skills as a full stack web developer, proficient in crafting seamless and efficient solutions spanning both frontend and backend development.</h4>
 
