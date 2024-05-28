@@ -43,6 +43,7 @@
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
     <a href="#"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height=85/> </a>
+    <a href="#"> <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height=85/> </a>
 </p>
 
 # 📊 GitHub Stats:
