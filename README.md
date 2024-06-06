@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ --> 
   
-![](https://komarev.com/ghpvc/?username=animishtripathy24)
+![](https://komarev.com/ghpvc/?username=animishtripathy24&style=for-the-badge)
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
