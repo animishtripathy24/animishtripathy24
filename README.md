@@ -1,6 +1,7 @@
 <!-- ----------- HEAD SECTION ------------ --> 
   
 ![](https://komarev.com/ghpvc/?username=animishtripathy24&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/animishtripathy24?logo=GitHub&style=for-the-badge)](https://github.com/animishtripathy24)
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
