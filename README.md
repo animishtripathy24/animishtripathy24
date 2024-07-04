@@ -48,7 +48,10 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=animishtripathy24&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=animishtripathy24&theme=blue-green&hide_border=false)<br/>
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animishtripathy24&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=animishtripathy24&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=animishtripathy24&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
