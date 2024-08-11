@@ -17,7 +17,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Animish Tripathy</b></h1>
 <h2 align="center"><b>Problem Solving Enthusiast | Passionate About Crafting Efficient Code 🚀 | Institute 3rd🏆 Rank @GFG | Youtuber </b></h2>   
 
-<h4 align="center">I'm passionate about tackling challenges in Data Structures and Algorithms 🛠. My diverse skill set spans both frontend development and data analytics 🚀. In the realm of frontend development, I excel in HTML, CSS, and JavaScript, with hands-on experience using frameworks like Tailwind CSS to build elegant and responsive designs 💻. On the data side, I leverage Python libraries such as Pandas, Numpy, and Matplotlib, along with tools like Microsoft Excel and Power BI, to uncover insights and drive data-driven decisions 📍. I am proficient in using version control systems like Git and GitHub 📂 for efficient collaboration and project management. I am also comfortable working with basic Linux 🐧 commands and environments, enhancing my versatility as a developer. Additionally, I have a YouTube channel where I share practical sessions on Database Management Systems using Oracle SQL Plus, helping others to learn and grow. I am passionate about leveraging machine learning to solve real-world problems and continuously exploring new methodologies to stay updated with the latest trends in the field.</h4>
+<h4 align="center">
+During my studies 📚, I gained hands-on experience in programming languages such as C, C++, Java ♨️, and Python 🐍, as well as in Web Development Technologies like HTML, CSS, JavaScript, and frameworks like TailWindCSS 💻. On the data side, I leverage Python libraries such as Pandas, Numpy, and Matplotlib 📊, along with tools like Microsoft Excel and Power BI 📊, to uncover insights and drive data-driven decisions 📍. I am proficient in using version control systems like Git and GitHub 📂 for efficient collaboration and project management. I am also comfortable working with basic Linux 🐧 commands and environments, enhancing my versatility as a developer. I’m a fast learner 🚀 with a passion for problem-solving 🔍 and I’m always eager to take on new challenges 🌟!
+
+## 🏆 My Accomplishments 🏆
+
+- 🎓 Amazon ML Summer School '24 participant
+- 🌟 2⭐ on CodeChef
+- 🌟 5⭐ on HackerRank (C++)
+- 🌟 4⭐ on HackerRank (Python)
+- 🌟 4⭐ on HackerRank (SQL)
+- 🏅 Institute Rank - 3 on GeeksForGeeks 
+- 🎥 Content creator on YouTube with 60+ subscribers, 17+ educational videos, and 1000+ views
+- 🥇 Achieved Institute Rank 13 out of 350+ participants in Byte Battles organized by Coding Ninjas
+- 🧠 Qualified Level 1.1 of the e-commerce and Tech Quiz in Flipkart GRID 5.0
+</h4>
 
 
 - 🌱 I’m currently **learning new Tech Stacks for Expanding My Skills set and Knowledge**
